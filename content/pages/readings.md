@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 460e4f71-709f-f807-45f3-8eec67312f29
 ---
@@ -74,7 +77,7 @@ Climate I: past climate, and gases, aerosols and radiation
 
 Karl, Thomas R., and Kevin E. Trenberth. "Modern Global Climate Change." _Science_ 302 (2003): 1719-1723.
 
-Prinn, Ronald. "Non-CO2 Greenhouse Gases." In _The Global Carbon Cycle: Integrating Humans, Climate, and the Natural World_. Edited by Christopher Field and Michael Raupach. Washington, DC: Island Press, 2004. ISBN: 9781559635271.
+Prinn, Ronald. "Non-CO{{< sub "2" >}} Greenhouse Gases." In _The Global Carbon Cycle: Integrating Humans, Climate, and the Natural World_. Edited by Christopher Field and Michael Raupach. Washington, DC: Island Press, 2004. ISBN: 9781559635271.
 
 Summary for Policymakers, _Climate Change 2007: The Physical Science Basis_. Intergovernmental Panel on Climate Change, Working Group I, Fourth Assessment Report, pp. 1-17. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.7 MB](http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-spm.pdf))
 

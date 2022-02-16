@@ -4,8 +4,13 @@ description: Problem set on applying a spreadsheet-based model of global CO2 emi
   to prepare 100-year projections of economic growth and carbon emissions, and to
   carry out studies of emissions restriction. The purpose of the exercise is to gain
   insight into the ways such models are constructed and applied.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-023j-global-climate-change-economics-science-and-policy-spring-2008/9faab71f46e3cf2f7a7b357dfc2ff333_assn2.pdf
+file: /media/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/9faab71f46e3cf2f7a7b357dfc2ff333_assn2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set #2'
 uid: 9faab71f-46e3-cf2f-7a7b-357dfc2ff333
