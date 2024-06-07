@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on analysis of the benefits of greenhouse gas mitigation.
 file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/1588da196dfa13fae15ed31252aaeca3_lec13.pdf
+file_size: 247133
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

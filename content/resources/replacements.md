@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on the nature of the system that determines climate
 file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/38936f6d08547e6689ec53dbcc53df25_replacements.pdf
+file_size: 889424
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

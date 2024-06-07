@@ -4,6 +4,7 @@ description: Lecture presentation on past climate trends, the climate system, en
   balance in the climate system, radiative forcing of climate, carbon dioxide, the
   carbon cycle, and other greenhouse gases and aerosols.
 file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/a1426af08e4835be1c5e3b4136a1aed3_lec4.pdf
+file_size: 1358508
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
