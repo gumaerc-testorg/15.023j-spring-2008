@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation with an introduction and overview of global climate
   change, economics, science, and policy.
 file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/6760be944045166e9648f667e63d89db_lec1.pdf
+file_size: 542726
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
