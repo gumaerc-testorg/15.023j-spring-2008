@@ -6,6 +6,7 @@ description: "Problem set on global policy analysis. This homework is divided in
   \ the EU and EET in the EPPA definitions). Problem 2 is an uncertainty analysis\
   \ of the climate impacts of the business-as-usual case."
 file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/fc6724fc5ffdfeb5e9398c1c202549f8_assn4.pdf
+file_size: 214402
 file_type: application/pdf
 learning_resource_types:
 - Assignments

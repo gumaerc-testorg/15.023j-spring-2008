@@ -5,6 +5,7 @@ description: Lecture presentation on unresolved problems in climate analysis, pr
   critical thresholds, stabilization of ghgs, energy solutions, geo-engineering, and
   possible defining climate events.
 file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/000160d34edebdcbd9ac3f612b0922d7_lec23.pdf
+file_size: 3087061
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

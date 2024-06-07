@@ -4,6 +4,7 @@ description: Lecture presentation on sensitivity studies and uncertainty analysi
   using the integrated global system model, structural and parametric uncertainty,
   and communicating uncertainty.
 file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/26a13f407f25dca6008da370b1473583_lec18.pdf
+file_size: 800194
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
