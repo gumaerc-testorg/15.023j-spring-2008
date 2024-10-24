@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on the economics of the global commons, market failure
   and environmental issues, working on the margin, and instruments to correct market
   failures.
-file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/85c408fc7017d2257e09a7f9a74bd28c_lec7.pdf
+file: /ol-ocw-studio-app/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/85c408fc7017d2257e09a7f9a74bd28c_lec7.pdf
 file_size: 140753
 file_type: application/pdf
 learning_resource_types:

@@ -5,7 +5,7 @@ description: Lecture presentation on the economics of greenhouse gas emissions c
   an example using price only, the use of MAC curves, technology costing approaches,
   issues in the handling of technology, endogenous change and new technology, barriers,
   and failures.
-file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/2dad46aa89f8ff53382b5929b206d31e_lec10.pdf
+file: /ol-ocw-studio-app/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/2dad46aa89f8ff53382b5929b206d31e_lec10.pdf
 file_size: 551514
 file_type: application/pdf
 learning_resource_types:
