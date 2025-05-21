@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on economic growth, technology, and greenhouse gas
   emissions.
-file: /ol-ocw-studio-app/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/b8f6ebdd20408057e1ecf1e0662b8720_lec8.pdf
+file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/b8f6ebdd20408057e1ecf1e0662b8720_lec8.pdf
 file_size: 510842
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on climate policy analysis, long-term stabilization
   target, mitigation efforts, the social cost of carbon, and how to frame the issue
   for public/policy discussion.
-file: /ol-ocw-studio-app/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/2c242210a0ec657e06cdcc0f8dff4d14_lec14.pdf
+file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/2c242210a0ec657e06cdcc0f8dff4d14_lec14.pdf
 file_size: 682490
 file_type: application/pdf
 learning_resource_types:
