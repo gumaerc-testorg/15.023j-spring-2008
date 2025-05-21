@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sample worksheet for Problem Set #3.'
-file: /ol-ocw-studio-app/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/7b927b5cb092b3bd1db45743beccec23_template3.xls
+file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/7b927b5cb092b3bd1db45743beccec23_template3.xls
 file_size: 77824
 file_type: application/msword
 learning_resource_types:

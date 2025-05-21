@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on the carbon cycle, greenhouse gases (GHGs) and radiation
   balance, the effects of aerosols on climate, and Earth's energy budget.
-file: /ol-ocw-studio-app/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/ecad7aaf87144e62f63d77e08e03f179_assn1.pdf
+file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/ecad7aaf87144e62f63d77e08e03f179_assn1.pdf
 file_size: 165819
 file_type: application/pdf
 learning_resource_types:

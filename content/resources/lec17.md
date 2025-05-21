@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation with a review of methods of uncertainty analysis,
   how to use decision trees, , the role of uncertainty in climate change science,
   and understanding mean vs. median, standard deviations, etc.
-file: /ol-ocw-studio-app/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/fe0cd60fd0ef0d6d7ab1b225362d9b07_lec17.pdf
+file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/fe0cd60fd0ef0d6d7ab1b225362d9b07_lec17.pdf
 file_size: 478198
 file_type: application/pdf
 learning_resource_types:
