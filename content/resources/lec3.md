@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation with a review of the mathematics of climate analysis,
   designing a climate model, spatial grids, continuity equations, time steps and stability,
   solving the equations, computation time, and parameterization.
-file: /ol-ocw-studio-app/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/8db180346a0e833069e0d7ca2934d9a4_lec3.pdf
+file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/8db180346a0e833069e0d7ca2934d9a4_lec3.pdf
 file_size: 391914
 file_type: application/pdf
 learning_resource_types:
