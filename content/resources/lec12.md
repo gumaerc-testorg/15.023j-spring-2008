@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on the interaction of the atmosphere, oceans and
   biosphere, ocean and land ecosystems, the integrated global system model, reference
   forecasts, and stabilization.
-file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/cba0c183d96913de637723ad580e295b_lec12.pdf
+file: /ol-ocw-studio-app/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/cba0c183d96913de637723ad580e295b_lec12.pdf
 file_size: 1308555
 file_type: application/pdf
 learning_resource_types:

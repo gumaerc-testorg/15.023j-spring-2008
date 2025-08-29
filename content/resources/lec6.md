@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on greenhouse gas exchange rates, dynamics of the
   atmosphere and oceans, horizontal circulations, vertical circulations, ocean-atmosphere
   coupling, fundamental equations, model integration, and accuracy of coupled models.
-file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/33def97a06dc1a6cfac7baef1aafd2b6_lec6.pdf
+file: /ol-ocw-studio-app/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/33def97a06dc1a6cfac7baef1aafd2b6_lec6.pdf
 file_size: 1180418
 file_type: application/pdf
 learning_resource_types:
