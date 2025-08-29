@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on international climate negotiations and the Kyoto
   Protocol.
-file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/0aaeee4315fdea0ae5cca1b13c189da4_lec9.pdf
+file: /ol-ocw-studio-app/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/0aaeee4315fdea0ae5cca1b13c189da4_lec9.pdf
 file_size: 276103
 file_type: application/pdf
 learning_resource_types:
