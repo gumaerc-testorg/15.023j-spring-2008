@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on the regional and continental effects of climate
   change.
-file: /courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/b3eb201faee04225a66a07e92587c9ba_lec16.pdf
+file: /ol-ocw-studio-app/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/b3eb201faee04225a66a07e92587c9ba_lec16.pdf
 file_size: 3320558
 file_type: application/pdf
 learning_resource_types:
